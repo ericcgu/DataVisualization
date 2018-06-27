@@ -17,7 +17,7 @@ data = [go.Scatter(x = RANDOM_X, y = RANDOM_Y, mode = "markers",
 #layout
 layout = go.Layout(title = 'Example Scatter Plot', 
                    xaxis = {'title': 'RANDOM_X'},
-                   yaxis = {'title': 'RANDOM_X'},
+                   yaxis = {'title': 'RANDOM_Y'},
                    hovermode = 'closest')
 
 figure = go.Figure(data = data, layout = layout)
