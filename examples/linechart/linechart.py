@@ -30,5 +30,8 @@ layout = go.Layout(title = 'Example Line Chart',
 
 figure = go.Figure(data = data, layout = layout)
 
-pyo.plot(figure, filename = 'examples/linechart/linechart.html')
+pyo.plot(figure, 
+        filename = 'examples/linechart/linechart.html', 
+        config={"displayModeBar": False}, 
+        show_link = False)
     
