@@ -18,7 +18,7 @@ line2 = go.Scatter(x = X_VALUES,
                    name = 'B' ) 
 line3 = go.Scatter(x = X_VALUES,
                    y = Y_VALUES,
-                   mode = 'line',
+                   mode = 'lines+markers',
                    name = 'C' )                                         
 
 data = [line1, line2, line3]
