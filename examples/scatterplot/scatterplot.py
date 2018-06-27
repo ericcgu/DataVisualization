@@ -22,4 +22,4 @@ layout = go.Layout(title = 'Example Scatter Plot',
 
 figure = go.Figure(data = data, layout = layout)
 
-pyo.plot(figure, filename = 'examples/output/scatter.html')
+pyo.plot(figure, filename = 'examples/scatterplot/scatterplot.html')
