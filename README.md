@@ -15,3 +15,5 @@
 ## [BarChart2](/examples/barchart/barchart2.py)
 ![alt text](/examples/barchart/barchart2.png)
 
+## [BubbleChart](/examples/bubblechart/bubblechart.py)
+![alt text](/examples/bubblechart/bubblechart.png)
