@@ -1,5 +1,8 @@
 # Data Visualization Library
 
+## [MapHeatMap](/examples/mapheatmap/mapheatmap.py)
+![alt text](/examples/mapheatmap/mapheatmap.png)
+
 ## [Scatterplot](/examples/scatterplot/scatterplot.py)
 ![alt text](/examples/scatterplot/scatterplot.png)
 
@@ -17,3 +20,5 @@
 
 ## [BubbleChart](/examples/bubblechart/bubblechart.py)
 ![alt text](/examples/bubblechart/bubblechart.png)
+
+
