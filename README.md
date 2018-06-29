@@ -1,4 +1,4 @@
-# Data Visualization Library using Plotly and Dash
+# Data Visualization Library
 
 ## [Scatterplot](/examples/scatterplot/scatterplot.py)
 ![alt text](/examples/scatterplot/scatterplot.png)
