@@ -9,3 +9,6 @@
 ## [LineChart-Crypto](/crypto/crypto.py)
 ![alt text](/crypto/crypto.png)
 
+## [BarChart](/examples/barchart/barchart.py)
+![alt text](/examples/barchart/barchart.png)
+
