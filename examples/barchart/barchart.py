@@ -3,17 +3,17 @@ import plotly.offline as pyo
 import plotly.graph_objs as go
 
 x = ['Product A', 'Product B', 'Product C']
-y = [20, 14, 23]
-y2 = [16, 12,27]
+y = [12, 16, 23]
+y2 = [14, 20, 27]
 
 trace1 = go.Bar(
-    x=y,
+    x=sorted(y2,reverse=True),
     y=x,
     text=y,
     textposition = 'auto',
     orientation = 'h',
     marker=dict(
-        color='rgb(158,202,225)',
+        color='rgb(58,202,225)',
         line=dict(
             color='rgb(8,48,107)',
             width=1.5),
@@ -22,13 +22,13 @@ trace1 = go.Bar(
 )
 
 trace2 = go.Bar(
-    x=y2,
+    x=sorted(y, reverse=True),
     y=x,
-    text=y2,
+    text=y,
     orientation = 'h',
     textposition = 'auto',
     marker=dict(
-        color='rgb(58,200,225)',
+        color='rgb(158,200,225)',
         line=dict(
             color='rgb(8,48,107)',
             width=1.5),
