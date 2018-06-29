@@ -12,3 +12,6 @@
 ## [BarChart](/examples/barchart/barchart.py)
 ![alt text](/examples/barchart/barchart.png)
 
+## [BarChart2](/examples/barchart/barchart2.py)
+![alt text](/examples/barchart/barchart2.png)
+
